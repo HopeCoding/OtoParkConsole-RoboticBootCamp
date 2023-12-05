@@ -99,6 +99,7 @@ void listMenu() {
         cout << "\033[96mSeciminizi Yapiniz: \n";
         cin >> seçim;
 
+
         switch (seçim)
         {
         case 1:
